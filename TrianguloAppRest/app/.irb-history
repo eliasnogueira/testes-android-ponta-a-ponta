@@ -1,0 +1,50 @@
+query("EditText");
+;
+sss
+cls
+clear
+que
+s
+query("edittext")
+query "*"
+query("android.widgetEditTexy")
+query("android.widgetEditText")
+query("android.widget.EditText")
+query("id:txtLado3")
+query("id":"txtLado3")
+query("id:com.eliasnogueira.trilanguloapp/txtLado3")
+query("android.widget.EditText")
+query("android.widget.EditText id:txtLado3")
+query("editText")
+query("*editText")
+query("txtLado3")
+query("*txtLado3")
+query("id:com.eliasnogueira.trianguloapp:id/txtLado3")
+query("android.widget.EditText id:txtLado3")
+query("android.widget.EditText id:txtLado3")
+exit
+start_test_server_in_background
+query("id:'txtLado3'")
+query("* id:'txtLado3'")
+query("button")
+query("TextVirew")
+query("TextView")
+query("Button")
+query("button")
+query("EditText")
+query("button")
+query("android.widget.Button")
+k
+query("* id:'txtLado1'", setText:"3")
+query("* id:'txtLado2'", setText:"3")
+query("* id:'txtLado3'", setText:"3")
+query("android.widget.Button")
+touch("* id:'btnCalcular'")
+query("TextView")
+query("android.widget.TextView")
+query("id:'txtResultado'", text)
+query("id:'txtResultado'", :text)
+s
+query("android.widget.TextView")
+query("* id:'txtResultado'", :text)
+exit

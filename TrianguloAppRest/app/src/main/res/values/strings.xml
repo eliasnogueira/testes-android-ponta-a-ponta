@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TrianguloApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_lado1">Preencha o Lado 1</string>
+    <string name="hint_lado2">Preencha o Lado 2</string>
+    <string name="hint_lado3">Preencha o Lado 3</string>
+    <string name="label_lado1">Lado 1</string>
+    <string name="label_lado2">Lado 2</string>
+    <string name="label_lado3">Lado 3</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="triangulo_equilatero">O triângulo é Equilátero</string>
+    <string name="triangulo_isosceles">O triângulo é Isósceles</string>
+    <string name="triangulo_escaleno">O triângulo é Escaleno</string>
+    <string name="campos_nao_preenchidos">Preencha todos os campos</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+</resources>
